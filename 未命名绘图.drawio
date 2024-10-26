@@ -13,14 +13,41 @@
         <mxCell id="HEasWuCLrtM_OaEN57CB-9" value="Feature 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HEasWuCLrtM_OaEN57CB-2" target="HEasWuCLrtM_OaEN57CB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-13" value="Feature 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HEasWuCLrtM_OaEN57CB-2" target="HEasWuCLrtM_OaEN57CB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-18" value="Feature 3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HEasWuCLrtM_OaEN57CB-2" target="HEasWuCLrtM_OaEN57CB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HEasWuCLrtM_OaEN57CB-2" value="1. Analyze the meal&lt;div&gt;2. Suggest meal plan for the following week&lt;/div&gt;&lt;div&gt;3. Analyze groceries and generate meal plan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="220" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HEasWuCLrtM_OaEN57CB-8" value="Take a photo of existing meal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HEasWuCLrtM_OaEN57CB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HEasWuCLrtM_OaEN57CB-8" target="HEasWuCLrtM_OaEN57CB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-8" value="Take a photo of existing meal and upload it to app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HEasWuCLrtM_OaEN57CB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HEasWuCLrtM_OaEN57CB-10" value="Analyze the nutrition and provide suggestions based on diet preference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HEasWuCLrtM_OaEN57CB-12" target="HEasWuCLrtM_OaEN57CB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-12" value="Take a photo of groceries market&amp;nbsp;and upload it to app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-14" value="Analyze the nutrition and provide suggestions based on diet preference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HEasWuCLrtM_OaEN57CB-16" target="HEasWuCLrtM_OaEN57CB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-16" value="User clicks the generate button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEasWuCLrtM_OaEN57CB-17" value="App directly generate the meal plan based on diet preference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
